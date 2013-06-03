@@ -5,7 +5,9 @@
 set nocompatible
 
 " Pathogen Settings
-execute pathogen#infect()
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
+" execute pathogen#infect()
 
 " General settings
 set number				                "Line numbers
