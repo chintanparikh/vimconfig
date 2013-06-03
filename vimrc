@@ -66,3 +66,6 @@ set sidescrolloff=15
 set sidescroll=1
 colorscheme solarized
 set background=dark
+
+" Remap
+
